@@ -28,7 +28,7 @@ This project is a basic network sniffer built in Python, leveraging the Scapy li
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/network-sniffer.git
+   git clone https://github.com/shaolinmonksmonk007/network-sniffer.git
    cd network-sniffer
    ```
 
